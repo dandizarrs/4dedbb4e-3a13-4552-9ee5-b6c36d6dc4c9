@@ -1,0 +1,6 @@
+1791646210s 1 https://dandiarchive.s3.amazonaws.com/zarr/4dedbb4e-3a13-4552-9ee5-b6c36d6dc4c9/extensions/quality_metrics/metrics/.zattrs?versionId=6kkY93cBYVazPgbs5J66LebfeHZyr02l
+1791646210s 1 https://api.dandiarchive.org/api/zarr/4dedbb4e-3a13-4552-9ee5-b6c36d6dc4c9/files?prefix=extensions%2Fquality_metrics%2Fmetrics%2F.zattrs&download=true
+1791646215s 1 https://dandiarchive.s3.amazonaws.com/zarr/4dedbb4e-3a13-4552-9ee5-b6c36d6dc4c9/extensions/template_metrics/metrics/.zattrs?versionId=4td7pCBadfSIwTNQ9YG5Z_Ob7vvvqrjm
+1791646215s 1 https://api.dandiarchive.org/api/zarr/4dedbb4e-3a13-4552-9ee5-b6c36d6dc4c9/files?prefix=extensions%2Ftemplate_metrics%2Fmetrics%2F.zattrs&download=true
+1791646219s 1 https://dandiarchive.s3.amazonaws.com/zarr/4dedbb4e-3a13-4552-9ee5-b6c36d6dc4c9/extensions/template_metrics/peaks_data/.zattrs?versionId=emItWT31ZZxPFnZLlpmce5YF0waNd_ks
+1791646219s 1 https://api.dandiarchive.org/api/zarr/4dedbb4e-3a13-4552-9ee5-b6c36d6dc4c9/files?prefix=extensions%2Ftemplate_metrics%2Fpeaks_data%2F.zattrs&download=true
